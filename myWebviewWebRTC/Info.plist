@@ -21,5 +21,9 @@
 			</array>
 		</dict>
 	</dict>
+    <key>NSCameraUsageDescription</key>
+    <string>We require camera access to connect to a video conference</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>We require microphone access to connect to a video conference</string>
 </dict>
 </plist>
